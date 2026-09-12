@@ -1,2 +1,1 @@
-# wawa
-just here
+Download in releases
